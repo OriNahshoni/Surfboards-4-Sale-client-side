@@ -1,2 +1,1 @@
-# Surfboards-4-Sale-client-side
-Surfboards 4 Sale-client side
+Welcome to the Business Cards Site project! This web application is built using React, JavaScript, and Material-UI to create a platform for designing and displaying business cards.
